@@ -54,7 +54,7 @@ int main() {
                 }
             } else {
                 break;
-            }
+                }
         }
         while(fscanf(fin, "%s", last_name) == 1) {
             fscanf(fin, "%s", first_name);
